@@ -70,17 +70,3 @@ A navegação entre as telas é realizada utilizando **React Navigation**. O usu
 
 - **Tela de Detalhes da Receita**: Exibe as informações sobre a receita e o médico.
 - **Tela do Mapa**: Exibe um mapa com o local para comprar os medicamentos.
-
-## Contribuindo
-
-Contribuições são bem-vindas! Caso queira ajudar a melhorar o projeto, siga os seguintes passos:
-
-1. Faça um fork deste repositório.
-2. Crie uma branch para sua feature (`git checkout -b feature/feature-name`).
-3. Faça as modificações e commit (`git commit -am 'Add new feature'`).
-4. Faça o push para a branch (`git push origin feature/feature-name`).
-5. Abra um Pull Request explicando sua contribuição.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
